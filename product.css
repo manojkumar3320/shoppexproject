@@ -1,0 +1,57 @@
+
+    .hero {
+        width: 100%;
+        margin-bottom: 50px;
+        display: flex;
+        align-items: center;
+        background-image: url("images/track1.jpg");
+        background-size: cover;
+        justify-content: center;
+        height: 400px;
+        max-width: 100%;
+      }
+
+       .logo-container img{
+          height:100px;
+          margin-left: 500px;
+          background-image: transparent;
+      }
+
+      
+.productname{
+    width:200px;
+}
+
+.flex-container{
+    display:flex;
+    flex-direction: row;
+}
+
+.flex-container>div{
+    margin:20px;
+    background-color: transparent;
+    border:none;
+}
+
+
+.button{
+    align-items: center;
+    background-color: rgb(33,150,243);
+    border: none;
+    color: white;
+    padding: 7px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 500px;
+    font-weight: bold;
+}
+
+
+.helloimage{
+    height:200px;
+    width:200px;
+}
